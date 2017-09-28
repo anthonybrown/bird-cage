@@ -8,4 +8,6 @@ I must say, create-react-app (which I aliased to crap) is really nice to use.
 It's a fast and easy way to setup a project with minimal configuration. I just use the
 `yarn run eject` to modify the files so I can configure the application.
 
+¯\_(ツ)_/¯  
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
